@@ -10,7 +10,7 @@
 - Works on desktop and mobile devices.
 
 ## Live Demo
-[View Live Invitation](https://wongjessicaw-png.github.io/jacksen-jessica-wedding-invitation/?guest=Budi)
+[View Live Invitation](https://wongjessicaw-png.github.io/jacksen-jessica-ceremony/?guest=Budi)
 
 ## Setup Instructions
 
